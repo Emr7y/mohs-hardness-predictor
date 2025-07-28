@@ -114,5 +114,5 @@ Yedi-Meister-Projekt. Mit viel Humor und neuronaler Kraft.
 
 ## 🔗 Online App (Hugging Face)
 
-[https://huggingface.co/spaces/Emr7y/Mohs-Hardness](https://huggingface.co/spaces/Emr7y/Mohs-Hardness)
+[https://huggingface.co/spaces/Emr7y/Mohs_Hardness](https://huggingface.co/spaces/Emr7y/Mohs_Hardness)
 
